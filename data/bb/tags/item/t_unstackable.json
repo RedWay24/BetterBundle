@@ -67,6 +67,9 @@
     "minecraft:leather_horse_armor",
     "minecraft:flint_and_steel",
     "minecraft:brush",
-    "minecraft:spyglass"
+    "minecraft:spyglass",
+    "minecraft:enchanted_book",
+    "minecraft:writable_book",
+    "minecraft:written_book"
   ]
 }
