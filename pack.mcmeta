@@ -1,13 +1,9 @@
 {
   "pack": {
     "description": "Improve the bundle by setting unstackable to occupy 16 slots instead of 64",
-    "pack_format": 57,
-    "supported_formats": {
-      "min_inclusive": 57,
-      "max_inclusive": 81
-    },
-    "min_format": [57, 0],
-    "max_format": [94, 1]
+    "pack_format": 107,
+    "min_format": [107, 1],
+    "max_format": [107, 1]
   },
   "overlays": {
     "entries": [

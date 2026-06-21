@@ -5,7 +5,7 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "slots": {
+        "minecraft:slots": {
           "inventory.*": {
             "items": "#minecraft:bundles"
           }
@@ -16,7 +16,7 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "slots": {
+        "minecraft:slots": {
           "hotbar.*": {
             "items": "#minecraft:bundles"
           }
@@ -27,7 +27,7 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "slots": {
+        "minecraft:slots": {
           "weapon.offhand": {
             "items": "#minecraft:bundles"
           }

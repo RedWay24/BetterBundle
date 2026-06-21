@@ -5,8 +5,7 @@
       "condition": "minecraft:entity_properties",
       "entity": "this",
       "predicate": {
-        "type": "minecraft:player",
-        "slots": {
+        "minecraft:slots": {
           "player.cursor": {
             "components": {
               "minecraft:max_stack_size": 1
@@ -21,10 +20,9 @@
         "condition": "minecraft:entity_properties",
         "entity": "this",
         "predicate": {
-          "type": "minecraft:player",
-          "slots": {
+          "minecraft:slots": {
             "player.cursor": {
-              "items": "#minecraft:bundles"
+              "items": "#bb:bb_exceptions"
             }
           }
         }
